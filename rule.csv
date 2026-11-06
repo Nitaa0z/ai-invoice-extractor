@@ -1,0 +1,17 @@
+Section,Rule_Title,Details
+11.4,Initial Robot Dimensions,Both TR and BR must fit within 700 mm × 700 mm × 700 mm (L×W×H) at the start.
+11.5,TR Max Extended Dimensions,TR fully extended size must not exceed 1000 mm × 1400 mm × 1200 mm (W×L×H).
+11.6,BR Max Extended Dimensions,BR fully extended size must not exceed 1000 mm × 1400 mm × 1200 mm (W×L×H).
+11.7,Robot Weight Limit,"Each robot, including batteries, controllers, and cables, must not exceed 50 kg."
+11.12,Battery Nominal Voltage,Nominal voltage of batteries cannot exceed 24V (including series connections).
+11.13,Max Circuit Voltage,Actual maximum voltage in power circuits must not exceed 42V per isolated system.
+11.14,Compressed Air Pressure,Pneumatic system air pressure must not exceed 600 kPa.
+11.16,Transport Box Dimensions,Max 1500 mm × 800 mm × 900 mm (L×W×H) with a max gross weight of 180 kg.
+8.5,Mustika Enshrinement,250 pts if Mustika stable on Central Pillar (L2) at end; requires Sanctuary Mandate.
+8.6,Invalid Scoring,"No points for robot contact, wrong block order, knocked blocks, or pushed blocks."
+9.1,Match Duration,Fixed 3 min; no early win; final state at buzzer.
+9.2,Score Calculation,"Sum of transfer, building points, and 250 Mustika points."
+9.3,Tie-Breaking,"1. Mustika, 2. Sky colors up, 3. L2 blocks, 4. L1 blocks, 5. Discretionary."
+9.4,Scoring State,Robots stop; no human touch; sign score sheet to finalize.
+10,Teams,1 team/region (Indo: 2); 3 students + 1 instructor; up to 3 Pit Crew (no grad students).
+11.1-11.3,Robot Types,"2 robots: TR (manual/auto), BR (fully auto). No inter-robot comms."
